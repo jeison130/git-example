@@ -1,3 +1,1 @@
-print("Hola Mundo desde python")
-
-print("Estoy en la rama DEV")
+print("Realizando ajustes de inventario")
